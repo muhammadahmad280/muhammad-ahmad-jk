@@ -1,0 +1,173 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    height: auto;
+    width: 100%;
+    background-image: url(../media/WhatsApp\ Image\ 2024-07-25\ at\ 1.36.23\ PM.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.parent{
+    background-color: rgba(0, 0, 255, 0.363);
+}
+.kida{
+    height: 15vh;
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+.parent1 h1{
+    font-size: 4rem;
+    text-align: center;
+    padding: 60px 0px;
+}
+.parent1 h2{
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+}
+.parent2 h1{
+    font-size:x-large;
+    text-align: center;
+    color: white;
+}
+/* .parent2 h2{
+    text-align: center;
+    rotate: 270deg;
+    font-size: 60px;
+    color: rgb(182, 49, 49);
+} */
+  /* .parent2 h2 {
+     animation: moveUpDown 1s infinite alternate;  
+}
+ @keyframes moveUpDown {
+    to {
+        transform: translatex(-50px); 
+    }
+}    */
+ .ff{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(223, 20, 20);
+    animation: web 1s ease-in-out infinite alternate;
+ }
+ @keyframes web {
+    to{
+        transform: translatey(50px);
+    }
+ }
+ .ff img{
+    height: 5vh;
+    width: 5%;
+ }
+.parent2{
+    padding-top: 80px;
+}
+.parent3{
+    width: 80%;    
+    position: relative;
+    left: 5rem;
+    text-align: center;
+}
+.parent3 hr{
+    margin:  40px;
+}
+.parent3 h1{
+    color: white;
+}
+.parent4{
+    width: 100%;
+}
+.parent4 .kid{
+    height: 180px ;
+    width: 350px;
+    background-color: rgb(67, 3, 117);
+    border: 10px solid white;
+    position: relative;
+    left: 7rem;
+   margin: 90px;
+   
+}
+.parent4 .kid1{
+    height: 180px ;
+    width: 350px;
+    background-color: rgb(67, 3, 117);
+    border: 10px solid white;
+   position: relative;
+   left: 45%;
+}
+.parent6 .kid0{
+    height: 180px;
+    width: 350px;
+    background-color: rgb(67, 3, 117);
+    border: 10px solid white;
+    position: relative;
+    left: 7rem;
+    margin: 90px;
+}
+ .parent6 .kid00{
+    height: 180px;
+    width: 350px;
+    background-color: rgb(67, 3, 117);
+    border: 10px solid white;
+    position: relative;
+    left: 45%;
+} 
+.parent8 .ahm{
+    height: 180px;
+    width: 350px;
+    background-color: rgb(67, 3, 117);
+    border: 10px solid white;
+    position: relative;
+    left: 7rem; 
+    margin: 90px;
+}  
+.parent8 .ahmad{
+    height: 180px;
+    width: 350px;
+    background-color: rgb(67, 3, 117);
+    border: 10px solid white;
+    position: relative;
+    left: 45%;
+}
+.parent10 .aa{
+    height: 180px;
+    width: 350px;
+    background-color: rgb(67, 3, 117);
+    border: 10px solid white;
+    position: relative;
+    left: 7rem; 
+    margin: 90px;
+}
+.parent10 .bb{
+    height: 180px;
+    width: 350px;
+    background-color: rgb(67, 3, 117);
+    border: 10px solid white;
+    position: relative;
+    left: 45%;
+}
+
+.parent12 .child{
+    height: 200px;
+    width: 500px;
+    background-color: rgb(67, 3, 117);
+    border: 10px solid white;
+    position: relative;
+    left: 10rem;
+    margin: 90px;
+}
+.parent12 .chi{
+    height: 200px;
+    width: 500px;
+    background-color: rgb(67, 3, 117);
+    border: 10px solid white;
+   position: relative;
+   left: 40%;
+}
